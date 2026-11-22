@@ -1,0 +1,165 @@
+{
+  "muoi": "0a37d9d44a8aafc7",
+  "mat_khau_hash": "39b45c34f87bbbd327ac4e1885f858eef23a9004790bcb6a18c8c950ed0ddc35",
+  "ca_thi": [
+    {
+      "ma_ca": "CA01",
+      "mon_thi": "Lập trình hướng đối tượng",
+      "ngay": "2026-11-11",
+      "gio_bat_dau": "00:00",
+      "gio_ket_thuc": "23:59",
+      "phong": "P.301",
+      "so_may": 10,
+      "may_hong": []
+    },
+    {
+      "ma_ca": "CA02",
+      "mon_thi": "Điện tử công nghiệp",
+      "ngay": "2026-11-11",
+      "gio_bat_dau": "00:00",
+      "gio_ket_thuc": "23:59",
+      "phong": "P.302",
+      "so_may": 8,
+      "may_hong": []
+    },
+    {
+      "ma_ca": "CA03",
+      "mon_thi": "Kỹ thuật điều khiển",
+      "ngay": "2026-11-12",
+      "gio_bat_dau": "07:30",
+      "gio_ket_thuc": "09:30",
+      "phong": "P.301",
+      "so_may": 10,
+      "may_hong": []
+    },
+    {
+      "ma_ca": "CA00",
+      "mon_thi": "Toán cao cấp",
+      "ngay": "2026-11-10",
+      "gio_bat_dau": "13:00",
+      "gio_ket_thuc": "15:00",
+      "phong": "P.301",
+      "so_may": 10,
+      "may_hong": []
+    }
+  ],
+  "sinh_vien": [
+    {
+      "mssv": "22800001",
+      "ho_ten": "Nguyễn Văn A"
+    },
+    {
+      "mssv": "22800002",
+      "ho_ten": "Trần Thị B"
+    },
+    {
+      "mssv": "22800003",
+      "ho_ten": "Lê Văn C"
+    },
+    {
+      "mssv": "22800004",
+      "ho_ten": "Phạm Thị D"
+    },
+    {
+      "mssv": "22800005",
+      "ho_ten": "Hoàng Văn E"
+    },
+    {
+      "mssv": "22800006",
+      "ho_ten": "Vũ Thị F"
+    }
+  ],
+  "dang_ky": [
+    {
+      "mssv": "22800001",
+      "ma_ca": "CA01",
+      "may": null,
+      "da_nhan_may": false,
+      "trang_thai": "Chưa nhận máy",
+      "ghi_chu": ""
+    },
+    {
+      "mssv": "22800001",
+      "ma_ca": "CA02",
+      "may": null,
+      "da_nhan_may": false,
+      "trang_thai": "Chưa nhận máy",
+      "ghi_chu": ""
+    },
+    {
+      "mssv": "22800001",
+      "ma_ca": "CA03",
+      "may": null,
+      "da_nhan_may": false,
+      "trang_thai": "Chưa nhận máy",
+      "ghi_chu": ""
+    },
+    {
+      "mssv": "22800001",
+      "ma_ca": "CA00",
+      "may": null,
+      "da_nhan_may": false,
+      "trang_thai": "Chưa nhận máy",
+      "ghi_chu": ""
+    },
+    {
+      "mssv": "22800002",
+      "ma_ca": "CA01",
+      "may": null,
+      "da_nhan_may": false,
+      "trang_thai": "Chưa nhận máy",
+      "ghi_chu": ""
+    },
+    {
+      "mssv": "22800002",
+      "ma_ca": "CA03",
+      "may": null,
+      "da_nhan_may": false,
+      "trang_thai": "Chưa nhận máy",
+      "ghi_chu": ""
+    },
+    {
+      "mssv": "22800003",
+      "ma_ca": "CA01",
+      "may": null,
+      "da_nhan_may": false,
+      "trang_thai": "Chưa nhận máy",
+      "ghi_chu": ""
+    },
+    {
+      "mssv": "22800004",
+      "ma_ca": "CA02",
+      "may": null,
+      "da_nhan_may": false,
+      "trang_thai": "Chưa nhận máy",
+      "ghi_chu": ""
+    },
+    {
+      "mssv": "22800005",
+      "ma_ca": "CA01",
+      "may": null,
+      "da_nhan_may": false,
+      "trang_thai": "Chưa nhận máy",
+      "ghi_chu": ""
+    },
+    {
+      "mssv": "22800005",
+      "ma_ca": "CA02",
+      "may": null,
+      "da_nhan_may": false,
+      "trang_thai": "Chưa nhận máy",
+      "ghi_chu": ""
+    },
+    {
+      "mssv": "22800006",
+      "ma_ca": "CA03",
+      "may": null,
+      "da_nhan_may": false,
+      "trang_thai": "Chưa nhận máy",
+      "ghi_chu": ""
+    }
+  ],
+  "lich_su_cap_may": [],
+  "lich_su_xac_thuc": [],
+  "nhat_ky": []
+}
